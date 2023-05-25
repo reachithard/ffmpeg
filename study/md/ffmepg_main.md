@@ -33,7 +33,7 @@
 
 ## 函数调用图
 
-![函数调用图](..\resource\overview.png)
+![函数调用图](../resource/overview.png)
 
 如上图，main函数启动，主要是调用了一些函数初始化，以及`avdevice_register_all`,`ffmpeg_parse_options`以及`transcode`等比较重要的函数。
 
